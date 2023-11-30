@@ -1,5 +1,5 @@
 #Firebase Video Storage & Retrieval App
-"🔥 Firebase Video Storage & Retrieval App 🔍
+#"🔥 Firebase Video Storage & Retrieval App 🔍
 
 Effortlessly manage and showcase your video content with this Android application powered by Firebase. Upload, store, and organize your videos securely on Firebase Storage, and seamlessly retrieve and display them within the app. This project utilizes Firebase Authentication for secure user access and provides an intuitive interface for an enhanced video browsing experience. Elevate your video storage capabilities with Firebase integration and streamline video retrieval in your Android application."
 
