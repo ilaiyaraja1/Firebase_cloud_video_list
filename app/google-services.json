@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "82995663998",
+    "project_id": "fir-videolist",
+    "storage_bucket": "fir-videolist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82995663998:android:646b31cc54d0727a91742f",
+        "android_client_info": {
+          "package_name": "com.example.firebasecloudvideolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82995663998-kksfbo2ogofh09e73fo0rjfv2vcllj1m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasecloudvideolist",
+            "certificate_hash": "a52a5ff3bbcde560482579c37a92a98af53555e0"
+          }
+        },
+        {
+          "client_id": "82995663998-3evqdh0rer1vdim6g9eitj6eg4aejbhk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGYxyY6k2anm8TNRTkgRubttO5R3O7FFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82995663998-3evqdh0rer1vdim6g9eitj6eg4aejbhk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
